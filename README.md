@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Jekyll Base ##
 This is a base that will ge you started with jekyll create by Daniel McGraw (@danielmcgraw).
 
@@ -47,9 +46,3 @@ This is a simple blog post. Notice that we are using markdown. To learn more abo
 
 ### index.html ###
 This is used to render your sites index. It is essntially a post loop wrapped in your base layout.
-=======
-sodevious
-=========
-
-sodevious.me
->>>>>>> 25fcd182e795b0c404ce0238c50fe7cb00bc2e2d
